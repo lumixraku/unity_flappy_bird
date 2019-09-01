@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FollowBird.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Pipe.cs" Line="25" Column="2" />
+      <File FileName="Assets\Scripts\Bird.cs" Line="36" Column="4" />
+      <File FileName="Assets\Scripts\MoveTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="31" Column="33" />
+      <File FileName="Assets\PipeUpOrDown.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\FollowBird.cs" Line="25" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
